@@ -1,0 +1,132 @@
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin: top 100px;
+}
+
+.Foto {
+  float: left;
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+}
+
+.Foto img {
+  width: 650px;
+  margin-top: 100px;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+.Deskripsi .Spesifikasi {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: 500;
+}
+.Deskripsi .Title {
+  margin: 0;
+}
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
+.button {
+  background-color: green;
+  color: white;
+  justify-items: center;
+  width: 150px;
+  height: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  display: inline-block;
+  font-size: medium;
+  border-radius: 10px;
+  border-color: transparent;
+}
+.tombol {
+  background-color: transparent;
+  width: 150px;
+  height: 50px;
+  margin-right: 50px;
+  border-color: transparent;
+  font-size: medium;
+}
+.button1 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: black;
+}
+.button2 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: black;
+}
+.button3 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: black;
+}
+.button7 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.button8 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.button9 {
+  background-color: whitesmoke;
+  width: 100px;
+  height: 50px;
+  border-color: transparent;
+  margin-right: 5px;
+}
+.button4 {
+  background-color: gray;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  box-shadow: 1px 2px 2px 1px #ccc;
+  border-color: white;
+}
+.button5 {
+  background-color: silver;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border-color: white;
+}
+.button6 {
+  background-color: red;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-color: white;
+}
+svg {
+  width: 18px;
+  height: 18px;
+  padding-right: 3px;
+}
